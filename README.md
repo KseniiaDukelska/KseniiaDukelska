@@ -6,7 +6,7 @@
 - studing in **Bremen University of Applied Science** ✈️
 - studing in **Kharkiv University of Radioelectronics** 👩‍🎓
 - learning German 🤞
-- working on a project 💻
+- working on a project (always) 💻
 
 ### Languages
 
