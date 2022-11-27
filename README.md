@@ -8,7 +8,9 @@
 - learning German 🤞
 - working on a project (always) 💻
 
+
 ### Stats & Languages
-![Kseniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaDukelska&show_icons=true&theme=buefy&hide=contribs,stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDukelska&layout=compact&theme=buefy)](https://github.com/KseniiaDukelska/github-readme-stats)
+
+| <a href="https://github.com/KseniiaDukelska/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KseniiaDukelska&show_icons=true&&hide=contribs,stars&include_all_commits=true&theme=buefy&hide_border=true" alt="Kseniia Dukelska's github stats" /></a> | <a href="https://github.com/KseniiaDukelska/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDukelska&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
