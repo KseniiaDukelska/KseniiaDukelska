@@ -9,6 +9,6 @@
 - working on a project (always) 💻
 
 ### Languages
-![Kseniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaDukelska&show_icons=true&theme=transparent)
+![Kseniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniiaDukelska&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDukelska&layout=compact)](https://github.com/KseniiaDukelska/github-readme-stats)
 
