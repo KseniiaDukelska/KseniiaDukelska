@@ -2,6 +2,19 @@
 
 ![GitHab Readme](https://user-images.githubusercontent.com/109369501/198018291-314e3bf4-4cad-4bdd-b746-5e7bc17674d4.png)
 ------------------
+
+<h1 align="center">
+  &lt;/&gt; Kseniia Dukelska
+</h1>
+
+<p align="center">
+  Full-Stack Developer building AI-powered web platforms
+</p>
+
+<p align="center">
+  🇺🇦
+</p>
+
 ### Currently
 - Software Developer at Smavida (AI-powered video advertising platform)
 - Developing a private project
