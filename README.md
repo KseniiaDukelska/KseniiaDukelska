@@ -10,6 +10,11 @@
 
 ### Stats & Languages
 
-| <a href="https://github.com/KseniiaDukelska/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KseniiaDukelska&show_icons=true&&hide=contribs,stars&include_all_commits=true&theme=buefy&hide_border=true" alt="Kseniia Dukelska's github stats" /></a> | <a href="https://github.com/KseniiaDukelska/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDukelska&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api?username=KseniiaDukelska&show_icons=true&hide=contribs,stars&include_all_commits=true&theme=buefy&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=KseniiaDukelska&layout=compact&theme=buefy&hide_border=true" />
+</a>
