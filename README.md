@@ -48,10 +48,10 @@
 ### Stats & Languages
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180"
+    <img height="150"
          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KseniiaDukelska&show_icons=true&hide=contribs,stars&include_all_commits=true&theme=buefy&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180"
+    <img height="150"
          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=KseniiaDukelska&layout=compact&theme=buefy&hide_border=true" />
   </a>
