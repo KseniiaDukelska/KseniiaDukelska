@@ -4,8 +4,7 @@
 ------------------
 
 ### Currently
-- Software Developer at Smavida (AI-powered video advertising platform)
-- Developing a private project
+- Software Developer
 - B.Sc. in Computer Science (AI specialization)
 - German B2 🇩🇪
 
